@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+out/
+out-test/
+*.class
+
+# JVM / OS noise
+*.log
+.DS_Store
+
+# Local tooling
+junit.jar
