@@ -10,3 +10,12 @@ out-test/
 
 # Local tooling
 junit.jar
+# Local secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
